@@ -1356,3 +1356,1192 @@
 2019-07-11 16:23:19 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
 2019-07-11 16:23:19 INFO  TestBase:63 - Closing Browser
 2019-07-11 16:23:20 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:33:56 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:34:03 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:34:03 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 18:34:04 INFO  DesignationTest:21 - Dashboard menu click 
+2019-07-11 18:34:04 INFO  DesignationTest:23 - Dashboard sub menu click
+2019-07-11 18:34:09 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@35d176f7] output={null}]
+2019-07-11 18:34:10 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:34:11 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:34:11 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:34:18 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:34:18 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-11 18:34:18 INFO  LeaveTypeTest:22 - DashBoardPage is menu CLick
+2019-07-11 18:34:18 INFO  LeaveTypeTest:24 - DashBoardPage is Submenu Leavetype CLick
+2019-07-11 18:34:18 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=FAILURE method=LeaveTypeTest.AddLeaveType()[pri:1, instance:com.abi.automation.Tests.LeaveTypeTest@1dfe2924] output={null}]
+2019-07-11 18:34:19 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:34:20 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:34:20 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:34:26 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:34:26 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 18:34:26 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 18:34:26 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:34:27 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:34:27 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:34:27 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:34:32 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:34:32 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 18:34:33 INFO  RecuitmentTypeTest:45 - Dashboard menu click 
+2019-07-11 18:34:33 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=FAILURE method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:34:33 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:34:34 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:34:34 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:34:39 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:34:39 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 18:34:40 INFO  RecuitmentTypeTest:63 - Dashboard menu click 
+2019-07-11 18:34:40 INFO  RecuitmentTypeTest:65 - Dashboard sub menu click
+2019-07-11 18:34:45 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:34:45 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:34:46 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:34:46 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:34:52 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:34:52 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 18:34:52 INFO  RecuitmentTypeTest:84 - Dashboard menu click 
+2019-07-11 18:34:52 INFO  RecuitmentTypeTest:86 - Dashboard sub menu click
+2019-07-11 18:34:57 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:34:57 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:34:58 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:34:58 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:35:03 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:35:03 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 18:35:03 INFO  RecuitmentTypeTest:101 - Dashboard menu click 
+2019-07-11 18:35:03 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:35:04 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:35:05 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:35:53 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:35:59 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:35:59 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 18:35:59 INFO  DesignationTest:21 - Dashboard menu click 
+2019-07-11 18:36:00 INFO  DesignationTest:23 - Dashboard sub menu click
+2019-07-11 18:36:05 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@35d176f7] output={null}]
+2019-07-11 18:36:05 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:36:06 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:36:06 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:36:11 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:36:11 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-11 18:36:11 INFO  LeaveTypeTest:22 - DashBoardPage is menu CLick
+2019-07-11 18:36:11 INFO  LeaveTypeTest:24 - DashBoardPage is Submenu Leavetype CLick
+2019-07-11 18:36:12 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=FAILURE method=LeaveTypeTest.AddLeaveType()[pri:1, instance:com.abi.automation.Tests.LeaveTypeTest@1dfe2924] output={null}]
+2019-07-11 18:36:12 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:36:13 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:36:13 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:36:18 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:36:18 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 18:36:19 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 18:36:19 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 18:36:19 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 18:36:20 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:36:20 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:36:21 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:36:21 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:36:26 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:36:26 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 18:36:26 INFO  RecuitmentTypeTest:45 - Dashboard menu click 
+2019-07-11 18:36:26 INFO  RecuitmentTypeTest:47 - Dashboard sub menu click
+2019-07-11 18:36:27 INFO  RecuitmentTypeTest:49 - Add RecuritType click 
+2019-07-11 18:36:27 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:36:27 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:36:28 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:36:28 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:36:33 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:36:33 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 18:36:33 INFO  RecuitmentTypeTest:63 - Dashboard menu click 
+2019-07-11 18:36:33 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:36:33 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:36:34 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:36:34 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:36:39 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:36:39 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 18:36:40 INFO  RecuitmentTypeTest:84 - Dashboard menu click 
+2019-07-11 18:36:40 INFO  RecuitmentTypeTest:86 - Dashboard sub menu click
+2019-07-11 18:36:40 INFO  RecuitmentTypeTest:88 - Add RecuritType click 
+2019-07-11 18:36:45 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:36:45 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:36:46 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:36:46 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:36:51 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:36:51 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 18:36:52 INFO  RecuitmentTypeTest:101 - Dashboard menu click 
+2019-07-11 18:36:52 INFO  RecuitmentTypeTest:103 - Dashboard sub menu click
+2019-07-11 18:36:52 INFO  RecuitmentTypeTest:105 - Add RecuritType click 
+2019-07-11 18:36:52 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=SUCCESS method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:36:52 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:36:53 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:39:01 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:39:07 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:39:07 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 18:39:07 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 18:39:07 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 18:39:07 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 18:39:08 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:39:08 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:39:09 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:39:09 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:39:14 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:39:14 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 18:39:15 INFO  RecuitmentTypeTest:45 - Dashboard menu click 
+2019-07-11 18:39:15 INFO  RecuitmentTypeTest:47 - Dashboard sub menu click
+2019-07-11 18:39:15 INFO  RecuitmentTypeTest:49 - Add RecuritType click 
+2019-07-11 18:39:15 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:39:15 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:39:16 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:39:16 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:39:21 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:39:21 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 18:39:22 INFO  RecuitmentTypeTest:63 - Dashboard menu click 
+2019-07-11 18:39:22 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:39:22 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:39:23 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:39:23 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:39:28 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:39:28 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 18:39:28 INFO  RecuitmentTypeTest:84 - Dashboard menu click 
+2019-07-11 18:39:29 INFO  RecuitmentTypeTest:86 - Dashboard sub menu click
+2019-07-11 18:39:29 INFO  RecuitmentTypeTest:88 - Add RecuritType click 
+2019-07-11 18:39:29 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=SUCCESS method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:39:29 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:39:30 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:39:30 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:39:35 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:39:35 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 18:39:35 INFO  RecuitmentTypeTest:101 - Dashboard menu click 
+2019-07-11 18:39:35 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:39:36 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:39:36 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:40:56 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:41:02 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:41:02 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 18:41:02 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 18:41:02 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 18:41:02 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 18:41:08 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:41:08 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:41:09 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:41:09 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:41:14 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:41:14 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 18:41:15 INFO  RecuitmentTypeTest:45 - Dashboard menu click 
+2019-07-11 18:41:15 INFO  RecuitmentTypeTest:47 - Dashboard sub menu click
+2019-07-11 18:41:15 INFO  RecuitmentTypeTest:49 - Add RecuritType click 
+2019-07-11 18:41:15 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:41:15 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:41:16 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:41:16 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:41:21 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:41:21 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 18:41:22 INFO  RecuitmentTypeTest:63 - Dashboard menu click 
+2019-07-11 18:41:22 INFO  RecuitmentTypeTest:65 - Dashboard sub menu click
+2019-07-11 18:41:22 INFO  RecuitmentTypeTest:67 - Add RecuritType click 
+2019-07-11 18:41:23 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=SUCCESS method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:41:23 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:41:23 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:41:23 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:41:28 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:41:28 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 18:41:29 INFO  RecuitmentTypeTest:84 - Dashboard menu click 
+2019-07-11 18:41:29 INFO  RecuitmentTypeTest:86 - Dashboard sub menu click
+2019-07-11 18:41:29 INFO  RecuitmentTypeTest:88 - Add RecuritType click 
+2019-07-11 18:41:34 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:41:34 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:41:35 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:41:35 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:41:40 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:41:40 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 18:41:41 INFO  RecuitmentTypeTest:101 - Dashboard menu click 
+2019-07-11 18:41:41 INFO  RecuitmentTypeTest:103 - Dashboard sub menu click
+2019-07-11 18:41:41 INFO  RecuitmentTypeTest:105 - Add RecuritType click 
+2019-07-11 18:41:41 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=SUCCESS method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:41:41 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:41:42 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:42:01 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:42:06 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:42:06 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 18:42:07 INFO  RecuitmentTypeTest:84 - Dashboard menu click 
+2019-07-11 18:42:07 INFO  RecuitmentTypeTest:86 - Dashboard sub menu click
+2019-07-11 18:42:12 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:42:12 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:42:13 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:42:20 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:42:26 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:42:26 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 18:42:26 INFO  RecuitmentTypeTest:84 - Dashboard menu click 
+2019-07-11 18:42:27 INFO  RecuitmentTypeTest:86 - Dashboard sub menu click
+2019-07-11 18:42:28 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@6ebc05a6] output={null}]
+2019-07-11 18:42:44 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:42:50 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:42:50 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 18:42:50 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 18:42:50 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 18:42:50 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 18:42:51 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:42:51 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:42:52 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:42:52 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:42:57 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:42:57 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 18:42:57 INFO  RecuitmentTypeTest:45 - Dashboard menu click 
+2019-07-11 18:42:57 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=FAILURE method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:42:58 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:42:58 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:42:58 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:43:04 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:43:04 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 18:43:05 INFO  RecuitmentTypeTest:63 - Dashboard menu click 
+2019-07-11 18:43:05 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:43:05 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:43:06 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:43:06 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:43:11 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:43:11 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 18:43:12 INFO  RecuitmentTypeTest:84 - Dashboard menu click 
+2019-07-11 18:43:12 INFO  RecuitmentTypeTest:86 - Dashboard sub menu click
+2019-07-11 18:43:12 INFO  RecuitmentTypeTest:88 - Add RecuritType click 
+2019-07-11 18:43:17 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:43:18 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:43:18 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:43:18 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:43:23 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:43:23 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 18:43:23 INFO  RecuitmentTypeTest:101 - Dashboard menu click 
+2019-07-11 18:43:24 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:43:24 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:43:25 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:43:41 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:43:47 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:43:47 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 18:43:48 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 18:43:48 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 18:43:48 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 18:43:53 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:43:54 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:43:55 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:43:55 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:43:59 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:43:59 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 18:44:00 INFO  RecuitmentTypeTest:45 - Dashboard menu click 
+2019-07-11 18:44:00 INFO  RecuitmentTypeTest:47 - Dashboard sub menu click
+2019-07-11 18:44:00 INFO  RecuitmentTypeTest:49 - Add RecuritType click 
+2019-07-11 18:44:00 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:44:00 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:44:01 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:44:01 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:44:06 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:44:06 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 18:44:07 INFO  RecuitmentTypeTest:63 - Dashboard menu click 
+2019-07-11 18:44:07 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:44:07 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:44:08 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:44:08 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:44:13 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:44:13 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 18:44:13 INFO  RecuitmentTypeTest:84 - Dashboard menu click 
+2019-07-11 18:44:13 INFO  RecuitmentTypeTest:86 - Dashboard sub menu click
+2019-07-11 18:44:14 INFO  RecuitmentTypeTest:88 - Add RecuritType click 
+2019-07-11 18:44:19 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:44:19 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:44:20 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:44:20 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:44:26 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:44:26 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 18:44:26 INFO  RecuitmentTypeTest:101 - Dashboard menu click 
+2019-07-11 18:44:26 INFO  RecuitmentTypeTest:103 - Dashboard sub menu click
+2019-07-11 18:44:26 INFO  RecuitmentTypeTest:105 - Add RecuritType click 
+2019-07-11 18:44:27 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=SUCCESS method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:44:27 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:44:27 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:57:46 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:57:52 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:57:52 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 18:57:52 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 18:57:52 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:57:53 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:57:54 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:57:54 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:57:59 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:57:59 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 18:58:00 INFO  RecuitmentTypeTest:45 - Dashboard menu click 
+2019-07-11 18:58:00 INFO  RecuitmentTypeTest:47 - Dashboard sub menu click
+2019-07-11 18:58:00 INFO  RecuitmentTypeTest:49 - Add RecuritType click 
+2019-07-11 18:58:00 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:58:00 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:58:01 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:58:01 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:58:06 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:58:06 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 18:58:07 INFO  RecuitmentTypeTest:63 - Dashboard menu click 
+2019-07-11 18:58:07 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:58:07 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:58:08 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:58:08 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:58:13 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:58:13 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 18:58:14 INFO  RecuitmentTypeTest:84 - Dashboard menu click 
+2019-07-11 18:58:14 INFO  RecuitmentTypeTest:86 - Dashboard sub menu click
+2019-07-11 18:58:19 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:58:19 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:58:20 INFO  TestBase:65 - Browser Closed
+2019-07-11 18:58:20 INFO  TestBase:29 - Initiate Browser
+2019-07-11 18:58:25 INFO  TestBase:35 - Browser Initiated
+2019-07-11 18:58:25 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 18:58:26 INFO  RecuitmentTypeTest:101 - Dashboard menu click 
+2019-07-11 18:58:26 INFO  RecuitmentTypeTest:103 - Dashboard sub menu click
+2019-07-11 18:58:31 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 18:58:31 INFO  TestBase:63 - Closing Browser
+2019-07-11 18:58:32 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:04:48 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:04:54 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:04:54 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 19:04:55 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 19:04:55 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 19:04:55 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 19:04:56 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:04:56 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:04:57 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:04:57 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:05:03 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:05:03 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 19:05:03 INFO  RecuitmentTypeTest:43 - Dashboard menu click 
+2019-07-11 19:05:03 INFO  RecuitmentTypeTest:45 - Dashboard sub menu click
+2019-07-11 19:05:04 INFO  RecuitmentTypeTest:47 - Add RecuritType click 
+2019-07-11 19:05:04 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:05:04 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:05:05 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:05:05 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:05:10 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:05:10 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 19:05:10 INFO  RecuitmentTypeTest:61 - Dashboard menu click 
+2019-07-11 19:05:10 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:05:11 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:05:12 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:05:12 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:05:17 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:05:17 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 19:05:17 INFO  RecuitmentTypeTest:82 - Dashboard menu click 
+2019-07-11 19:05:17 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:05:18 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:05:18 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:05:18 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:05:24 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:05:24 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 19:05:24 INFO  RecuitmentTypeTest:99 - Dashboard menu click 
+2019-07-11 19:05:24 INFO  RecuitmentTypeTest:101 - Dashboard sub menu click
+2019-07-11 19:05:24 INFO  RecuitmentTypeTest:103 - Add RecuritType click 
+2019-07-11 19:05:24 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=SUCCESS method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:05:24 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:05:25 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:07:10 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:07:16 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:07:16 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 19:07:17 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 19:07:17 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:07:17 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:07:18 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:07:18 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:07:23 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:07:23 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 19:07:24 INFO  RecuitmentTypeTest:43 - Dashboard menu click 
+2019-07-11 19:07:24 INFO  RecuitmentTypeTest:45 - Dashboard sub menu click
+2019-07-11 19:07:24 INFO  RecuitmentTypeTest:47 - Add RecuritType click 
+2019-07-11 19:07:24 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:07:24 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:07:25 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:07:25 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:07:30 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:07:30 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 19:07:31 INFO  RecuitmentTypeTest:61 - Dashboard menu click 
+2019-07-11 19:07:31 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:07:31 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:07:32 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:07:32 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:07:37 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:07:37 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 19:07:37 INFO  RecuitmentTypeTest:82 - Dashboard menu click 
+2019-07-11 19:07:37 INFO  RecuitmentTypeTest:84 - Dashboard sub menu click
+2019-07-11 19:07:42 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:07:43 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:07:43 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:07:43 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:07:48 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:07:48 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 19:07:49 INFO  RecuitmentTypeTest:99 - Dashboard menu click 
+2019-07-11 19:07:49 INFO  RecuitmentTypeTest:101 - Dashboard sub menu click
+2019-07-11 19:07:54 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:07:54 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:07:55 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:08:17 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:08:24 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:08:24 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 19:08:24 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 19:08:24 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 19:08:24 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 19:08:25 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:08:25 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:08:26 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:08:26 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:08:31 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:08:31 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 19:08:31 INFO  RecuitmentTypeTest:43 - Dashboard menu click 
+2019-07-11 19:08:31 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=FAILURE method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:08:32 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:08:33 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:08:33 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:08:39 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:08:39 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 19:08:40 INFO  RecuitmentTypeTest:61 - Dashboard menu click 
+2019-07-11 19:08:40 INFO  RecuitmentTypeTest:63 - Dashboard sub menu click
+2019-07-11 19:08:40 INFO  RecuitmentTypeTest:65 - Add RecuritType click 
+2019-07-11 19:08:41 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=SUCCESS method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:08:41 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:08:42 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:08:42 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:08:47 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:08:47 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 19:08:48 INFO  RecuitmentTypeTest:82 - Dashboard menu click 
+2019-07-11 19:08:48 INFO  RecuitmentTypeTest:84 - Dashboard sub menu click
+2019-07-11 19:08:48 INFO  RecuitmentTypeTest:86 - Add RecuritType click 
+2019-07-11 19:08:48 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=SUCCESS method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:08:48 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:08:49 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:08:49 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:08:54 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:08:54 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 19:08:54 INFO  RecuitmentTypeTest:99 - Dashboard menu click 
+2019-07-11 19:08:55 INFO  RecuitmentTypeTest:101 - Dashboard sub menu click
+2019-07-11 19:08:55 INFO  RecuitmentTypeTest:103 - Add RecuritType click 
+2019-07-11 19:09:00 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:09:00 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:09:01 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:31:49 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:31:55 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:31:55 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 19:31:55 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 19:31:55 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:31:56 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:31:56 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:31:56 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:32:03 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:32:03 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 19:32:03 INFO  RecuitmentTypeTest:43 - Dashboard menu click 
+2019-07-11 19:32:04 INFO  RecuitmentTypeTest:45 - Dashboard sub menu click
+2019-07-11 19:32:04 INFO  RecuitmentTypeTest:47 - Add RecuritType click 
+2019-07-11 19:32:04 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:32:04 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:32:05 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:32:05 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:32:10 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:32:10 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 19:32:10 INFO  RecuitmentTypeTest:61 - Dashboard menu click 
+2019-07-11 19:32:10 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:32:11 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:32:12 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:32:12 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:32:17 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:32:17 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 19:32:17 INFO  RecuitmentTypeTest:82 - Dashboard menu click 
+2019-07-11 19:32:17 INFO  RecuitmentTypeTest:84 - Dashboard sub menu click
+2019-07-11 19:32:18 INFO  RecuitmentTypeTest:86 - Add RecuritType click 
+2019-07-11 19:32:23 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:32:23 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:32:24 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:32:24 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:32:29 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:32:29 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 19:32:29 INFO  RecuitmentTypeTest:99 - Dashboard menu click 
+2019-07-11 19:32:30 INFO  RecuitmentTypeTest:101 - Dashboard sub menu click
+2019-07-11 19:32:30 INFO  RecuitmentTypeTest:103 - Add RecuritType click 
+2019-07-11 19:32:35 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:32:35 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:32:36 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:33:26 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:33:32 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:33:32 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 19:33:32 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 19:33:32 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 19:33:33 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 19:33:33 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:33:33 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:33:34 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:33:34 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:33:39 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:33:39 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 19:33:40 INFO  RecuitmentTypeTest:43 - Dashboard menu click 
+2019-07-11 19:33:40 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=FAILURE method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:33:40 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:33:41 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:33:41 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:33:47 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:33:47 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 19:33:47 INFO  RecuitmentTypeTest:61 - Dashboard menu click 
+2019-07-11 19:33:47 INFO  RecuitmentTypeTest:63 - Dashboard sub menu click
+2019-07-11 19:33:47 INFO  RecuitmentTypeTest:65 - Add RecuritType click 
+2019-07-11 19:33:53 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:33:53 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:33:54 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:33:54 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:33:59 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:33:59 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 19:33:59 INFO  RecuitmentTypeTest:82 - Dashboard menu click 
+2019-07-11 19:33:59 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:34:00 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:34:01 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:34:01 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:34:06 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:34:06 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 19:34:06 INFO  RecuitmentTypeTest:99 - Dashboard menu click 
+2019-07-11 19:34:06 INFO  RecuitmentTypeTest:101 - Dashboard sub menu click
+2019-07-11 19:34:07 INFO  RecuitmentTypeTest:103 - Add RecuritType click 
+2019-07-11 19:34:07 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=SUCCESS method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:34:07 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:34:08 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:34:51 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:34:57 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:34:57 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 19:34:58 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 19:34:58 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 19:34:58 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 19:34:59 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:34:59 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:34:59 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:34:59 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:35:04 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:35:04 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 19:35:04 INFO  RecuitmentTypeTest:43 - Dashboard menu click 
+2019-07-11 19:35:04 INFO  RecuitmentTypeTest:45 - Dashboard sub menu click
+2019-07-11 19:35:05 INFO  RecuitmentTypeTest:47 - Add RecuritType click 
+2019-07-11 19:35:05 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:35:05 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:35:06 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:35:06 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:35:11 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:35:11 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 19:35:12 INFO  RecuitmentTypeTest:61 - Dashboard menu click 
+2019-07-11 19:35:12 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=FAILURE method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:35:13 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:35:14 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:35:14 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:35:19 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:35:19 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 19:35:19 INFO  RecuitmentTypeTest:82 - Dashboard menu click 
+2019-07-11 19:35:19 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:35:19 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:35:20 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:35:20 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:35:26 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:35:26 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 19:35:26 INFO  RecuitmentTypeTest:99 - Dashboard menu click 
+2019-07-11 19:35:26 INFO  RecuitmentTypeTest:101 - Dashboard sub menu click
+2019-07-11 19:35:27 INFO  RecuitmentTypeTest:103 - Add RecuritType click 
+2019-07-11 19:35:32 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:35:32 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:35:33 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:36:30 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:36:36 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:36:36 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 19:36:36 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 19:36:36 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:36:37 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:36:38 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:36:38 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:36:43 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:36:43 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 19:36:43 INFO  RecuitmentTypeTest:43 - Dashboard menu click 
+2019-07-11 19:36:43 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=FAILURE method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:36:43 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:36:44 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:36:44 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:36:51 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:36:51 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 19:36:51 INFO  RecuitmentTypeTest:61 - Dashboard menu click 
+2019-07-11 19:36:51 INFO  RecuitmentTypeTest:63 - Dashboard sub menu click
+2019-07-11 19:36:51 INFO  RecuitmentTypeTest:65 - Add RecuritType click 
+2019-07-11 19:36:52 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=SUCCESS method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:36:52 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:36:53 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:36:53 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:36:58 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:36:58 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 19:36:59 INFO  RecuitmentTypeTest:82 - Dashboard menu click 
+2019-07-11 19:36:59 INFO  RecuitmentTypeTest:84 - Dashboard sub menu click
+2019-07-11 19:36:59 INFO  RecuitmentTypeTest:86 - Add RecuritType click 
+2019-07-11 19:36:59 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=SUCCESS method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:36:59 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:37:00 INFO  TestBase:65 - Browser Closed
+2019-07-11 19:37:00 INFO  TestBase:29 - Initiate Browser
+2019-07-11 19:37:06 INFO  TestBase:35 - Browser Initiated
+2019-07-11 19:37:06 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 19:37:06 INFO  RecuitmentTypeTest:99 - Dashboard menu click 
+2019-07-11 19:37:06 INFO  RecuitmentTypeTest:101 - Dashboard sub menu click
+2019-07-11 19:37:06 INFO  RecuitmentTypeTest:103 - Add RecuritType click 
+2019-07-11 19:37:12 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 19:37:12 INFO  TestBase:63 - Closing Browser
+2019-07-11 19:37:13 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:38:58 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:39:12 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:39:12 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 21:39:12 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 21:39:12 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 21:39:12 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 21:39:13 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:39:13 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:39:14 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:39:14 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:39:24 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:39:24 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 21:39:24 INFO  RecuitmentTypeTest:43 - Dashboard menu click 
+2019-07-11 21:39:24 INFO  RecuitmentTypeTest:45 - Dashboard sub menu click
+2019-07-11 21:39:24 INFO  RecuitmentTypeTest:47 - Add RecuritType click 
+2019-07-11 21:39:25 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:39:25 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:39:26 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:39:26 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:39:35 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:39:35 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 21:39:35 INFO  RecuitmentTypeTest:61 - Dashboard menu click 
+2019-07-11 21:39:35 INFO  RecuitmentTypeTest:63 - Dashboard sub menu click
+2019-07-11 21:39:35 INFO  RecuitmentTypeTest:65 - Add RecuritType click 
+2019-07-11 21:39:36 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=SUCCESS method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:39:36 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:39:37 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:39:37 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:39:46 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:39:46 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 21:39:46 INFO  RecuitmentTypeTest:82 - Dashboard menu click 
+2019-07-11 21:39:46 INFO  RecuitmentTypeTest:84 - Dashboard sub menu click
+2019-07-11 21:39:46 INFO  RecuitmentTypeTest:86 - Add RecuritType click 
+2019-07-11 21:39:47 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=SUCCESS method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:39:47 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:39:48 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:39:48 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:39:58 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:39:58 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 21:39:58 INFO  RecuitmentTypeTest:99 - Dashboard menu click 
+2019-07-11 21:39:58 INFO  RecuitmentTypeTest:101 - Dashboard sub menu click
+2019-07-11 21:39:58 INFO  RecuitmentTypeTest:103 - Add RecuritType click 
+2019-07-11 21:39:59 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=SUCCESS method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:39:59 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:40:00 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:47:30 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:47:39 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:47:39 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-11 21:47:39 INFO  RecuitmentTypeTest:24 - Dashboard menu click 
+2019-07-11 21:47:39 INFO  RecuitmentTypeTest:26 - Dashboard sub menu click
+2019-07-11 21:47:39 INFO  RecuitmentTypeTest:28 - Add RecuritType click 
+2019-07-11 21:47:41 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RecuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:47:41 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:47:42 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:47:42 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:47:51 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:47:51 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-11 21:47:51 INFO  RecuitmentTypeTest:43 - Dashboard menu click 
+2019-07-11 21:47:52 INFO  RecuitmentTypeTest:45 - Dashboard sub menu click
+2019-07-11 21:47:52 INFO  RecuitmentTypeTest:47 - Add RecuritType click 
+2019-07-11 21:47:52 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RecuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:47:52 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:47:53 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:47:53 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:48:02 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:48:02 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-11 21:48:02 INFO  RecuitmentTypeTest:61 - Dashboard menu click 
+2019-07-11 21:48:02 INFO  RecuitmentTypeTest:63 - Dashboard sub menu click
+2019-07-11 21:48:02 INFO  RecuitmentTypeTest:65 - Add RecuritType click 
+2019-07-11 21:48:03 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=SUCCESS method=RecuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:48:03 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:48:04 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:48:04 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:48:14 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:48:14 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-11 21:48:14 INFO  RecuitmentTypeTest:82 - Dashboard menu click 
+2019-07-11 21:48:14 INFO  RecuitmentTypeTest:84 - Dashboard sub menu click
+2019-07-11 21:48:14 INFO  RecuitmentTypeTest:86 - Add RecuritType click 
+2019-07-11 21:48:20 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RecuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:48:20 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:48:21 INFO  TestBase:65 - Browser Closed
+2019-07-11 21:48:21 INFO  TestBase:29 - Initiate Browser
+2019-07-11 21:48:29 INFO  TestBase:35 - Browser Initiated
+2019-07-11 21:48:29 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-11 21:48:29 INFO  RecuitmentTypeTest:99 - Dashboard menu click 
+2019-07-11 21:48:29 INFO  RecuitmentTypeTest:101 - Dashboard sub menu click
+2019-07-11 21:48:29 INFO  RecuitmentTypeTest:103 - Add RecuritType click 
+2019-07-11 21:48:29 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=FAILURE method=RecuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RecuitmentTypeTest@578486a3] output={null}]
+2019-07-11 21:48:30 INFO  TestBase:63 - Closing Browser
+2019-07-11 21:48:30 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:12:12 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:12:24 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:12:24 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:12:24 INFO  DesignationTest:21 - Dashboard menu click 
+2019-07-12 10:12:24 INFO  DesignationTest:23 - Dashboard sub menu click
+2019-07-12 10:12:29 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 10:12:30 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:12:31 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:25:57 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:26:03 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:26:03 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:26:04 INFO  DesignationTest:21 - Dashboard menu click 
+2019-07-12 10:26:04 INFO  DesignationTest:23 - Dashboard sub menu click
+2019-07-12 10:26:04 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:26:04 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:26:05 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:27:13 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:27:20 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:27:20 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:27:20 INFO  DesignationTest:21 - Dashboard menu click 
+2019-07-12 10:27:20 INFO  DesignationTest:23 - Dashboard sub menu click
+2019-07-12 10:27:20 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:27:20 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:27:21 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:28:47 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:28:54 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:28:54 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:28:54 INFO  DesignationTest:21 - Dashboard menu click 
+2019-07-12 10:28:54 INFO  DesignationTest:23 - Dashboard sub menu click
+2019-07-12 10:28:54 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:28:54 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:28:55 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:35:05 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:35:12 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:35:12 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:35:12 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-12 10:35:12 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-12 10:35:12 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:35:13 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:35:13 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:36:59 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:37:06 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:37:06 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:37:06 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-12 10:37:06 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-12 10:37:06 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:37:06 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:37:07 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:39:03 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:39:10 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:39:10 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:39:10 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-12 10:39:10 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-12 10:39:11 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:39:11 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:39:12 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:40:36 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:40:42 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:40:42 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:40:42 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-12 10:40:43 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-12 10:40:43 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:40:43 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:40:43 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:41:48 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:41:55 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:41:55 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:41:55 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-12 10:41:55 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-12 10:41:56 INFO  DesignationTest:24 - Add RecuritType click 
+2019-07-12 10:41:56 INFO  DesignationTest:26 - Click the inputBox
+2019-07-12 10:42:01 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:42:01 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:42:01 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:43:50 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:43:58 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:43:58 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 10:43:58 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-12 10:43:59 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-12 10:43:59 INFO  DesignationTest:24 - Add RecuritType click 
+2019-07-12 10:43:59 INFO  DesignationTest:26 - Click the inputBox
+2019-07-12 10:44:00 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@77f1baf5] output={null}]
+2019-07-12 10:44:00 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:44:00 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:45:42 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:45:49 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:45:49 INFO  TestBase:46 - Test name: CloseRecuritment
+2019-07-12 10:45:49 INFO  DesignationTest:40 - Dashboard menu click 
+2019-07-12 10:45:50 INFO  DesignationTest:42 - Dashboard sub menu click
+2019-07-12 10:45:50 INFO  DesignationTest:44 - Add RecuritType click 
+2019-07-12 10:45:55 INFO  TestBase:72 - Executed test case name:CloseRecuritment Execution Results : [TestResult name=CloseRecuritment status=FAILURE method=DesignationTest.CloseRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:45:55 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:45:55 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:46:35 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:46:45 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:46:45 INFO  TestBase:46 - Test name: CloseRecuritment
+2019-07-12 10:46:46 INFO  DesignationTest:40 - Dashboard menu click 
+2019-07-12 10:46:46 INFO  DesignationTest:42 - Dashboard sub menu click
+2019-07-12 10:46:46 INFO  DesignationTest:44 - Add RecuritType click 
+2019-07-12 10:46:46 INFO  TestBase:72 - Executed test case name:CloseRecuritment Execution Results : [TestResult name=CloseRecuritment status=SUCCESS method=DesignationTest.CloseRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:46:46 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:46:46 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:54:31 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:54:38 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:54:38 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 10:54:38 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 10:54:38 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 10:54:39 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 10:54:39 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=SUCCESS method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:54:39 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:54:39 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:55:08 INFO  TestBase:29 - Initiate Browser
+2019-07-12 10:55:16 INFO  TestBase:35 - Browser Initiated
+2019-07-12 10:55:16 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 10:55:16 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 10:55:16 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 10:55:16 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 10:55:16 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=SUCCESS method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 10:55:16 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:55:16 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:16:48 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:16:55 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:16:55 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 11:16:55 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 11:16:55 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 11:16:56 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 11:16:56 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=FAILURE method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 11:16:56 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:16:56 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:23:10 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:23:18 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:23:18 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 11:23:18 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 11:23:18 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 11:23:18 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 11:23:19 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=FAILURE method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 11:23:19 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:23:19 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:23:49 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:23:56 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:23:56 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 11:23:56 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 11:23:57 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 11:23:57 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 11:23:57 INFO  DesignationTest:64 - Click the inputBox
+2019-07-12 11:23:58 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=SUCCESS method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 11:23:58 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:23:58 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:25:04 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:25:11 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:25:11 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 11:25:11 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 11:25:11 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 11:25:11 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 11:25:11 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=FAILURE method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 11:25:12 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:25:12 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:26:19 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:26:26 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:26:26 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 11:26:26 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 11:26:26 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 11:26:26 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 11:26:26 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=FAILURE method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 11:26:27 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:26:27 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:26:48 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:26:55 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:26:55 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 11:26:55 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 11:26:56 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 11:26:56 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 11:26:56 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=FAILURE method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 11:26:56 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:26:56 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:29:27 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:29:37 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:29:37 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 11:29:37 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 11:29:37 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 11:29:37 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 11:29:37 INFO  DesignationTest:64 - Click the inputBox
+2019-07-12 11:29:38 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=SUCCESS method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@77f1baf5] output={null}]
+2019-07-12 11:29:38 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:29:38 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:31:12 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:31:19 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:31:19 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 11:31:19 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 11:31:19 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 11:31:20 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 11:31:20 INFO  DesignationTest:64 - Click the inputBox
+2019-07-12 11:31:20 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=SUCCESS method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 11:31:20 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:31:20 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:33:19 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:33:26 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:33:26 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 11:33:27 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 11:33:27 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 11:33:27 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 11:33:27 INFO  DesignationTest:64 - Click the inputBox
+2019-07-12 11:33:27 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=SUCCESS method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 11:33:27 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:33:27 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:35:39 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:35:47 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:35:47 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 11:35:48 INFO  RcuitmentTypeTest:20 - Dashboard menu click 
+2019-07-12 11:35:48 INFO  RcuitmentTypeTest:22 - Dashboard sub menu click
+2019-07-12 11:35:48 INFO  RcuitmentTypeTest:24 - Add RecuritType click 
+2019-07-12 11:35:49 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RcuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RcuitmentTypeTest@578486a3] output={null}]
+2019-07-12 11:35:49 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:35:49 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:35:49 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:36:01 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:36:01 INFO  TestBase:46 - Test name: Colserecuritment
+2019-07-12 11:36:01 INFO  RcuitmentTypeTest:39 - Dashboard menu click 
+2019-07-12 11:36:01 INFO  RcuitmentTypeTest:41 - Dashboard sub menu click
+2019-07-12 11:36:01 INFO  RcuitmentTypeTest:43 - Add RecuritType click 
+2019-07-12 11:36:01 INFO  TestBase:72 - Executed test case name:Colserecuritment Execution Results : [TestResult name=Colserecuritment status=SUCCESS method=RcuitmentTypeTest.Colserecuritment()[pri:2, instance:com.abi.automation.Tests.RcuitmentTypeTest@578486a3] output={null}]
+2019-07-12 11:36:01 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:36:01 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:36:01 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:36:08 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:36:08 INFO  TestBase:46 - Test name: EditRecuriment
+2019-07-12 11:36:09 INFO  RcuitmentTypeTest:57 - Dashboard menu click 
+2019-07-12 11:36:09 INFO  RcuitmentTypeTest:59 - Dashboard sub menu click
+2019-07-12 11:36:10 INFO  RcuitmentTypeTest:61 - Add RecuritType click 
+2019-07-12 11:36:11 INFO  TestBase:72 - Executed test case name:EditRecuriment Execution Results : [TestResult name=EditRecuriment status=SUCCESS method=RcuitmentTypeTest.EditRecuriment()[pri:3, instance:com.abi.automation.Tests.RcuitmentTypeTest@578486a3] output={null}]
+2019-07-12 11:36:11 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:36:11 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:36:11 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:36:40 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:36:40 INFO  TestBase:46 - Test name: DeleteRecuricancel
+2019-07-12 11:36:40 INFO  RcuitmentTypeTest:78 - Dashboard menu click 
+2019-07-12 11:36:40 INFO  TestBase:72 - Executed test case name:DeleteRecuricancel Execution Results : [TestResult name=DeleteRecuricancel status=FAILURE method=RcuitmentTypeTest.DeleteRecuricancel()[pri:4, instance:com.abi.automation.Tests.RcuitmentTypeTest@578486a3] output={null}]
+2019-07-12 11:36:41 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:36:41 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:36:41 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:36:53 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:36:53 INFO  TestBase:46 - Test name: DeleteRecuriment
+2019-07-12 11:36:54 INFO  RcuitmentTypeTest:95 - Dashboard menu click 
+2019-07-12 11:36:54 INFO  RcuitmentTypeTest:97 - Dashboard sub menu click
+2019-07-12 11:36:55 INFO  RcuitmentTypeTest:99 - Add RecuritType click 
+2019-07-12 11:36:55 INFO  TestBase:72 - Executed test case name:DeleteRecuriment Execution Results : [TestResult name=DeleteRecuriment status=SUCCESS method=RcuitmentTypeTest.DeleteRecuriment()[pri:5, instance:com.abi.automation.Tests.RcuitmentTypeTest@578486a3] output={null}]
+2019-07-12 11:36:55 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:36:55 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:48:54 INFO  TestBase:29 - Initiate Browser
+2019-07-12 11:49:01 INFO  TestBase:35 - Browser Initiated
+2019-07-12 11:49:01 INFO  TestBase:46 - Test name: CloseRecuritment
+2019-07-12 11:49:01 INFO  DesignationTest:40 - Dashboard menu click 
+2019-07-12 11:49:01 INFO  DesignationTest:42 - Dashboard sub menu click
+2019-07-12 11:49:02 INFO  DesignationTest:44 - Add RecuritType click 
+2019-07-12 11:49:02 INFO  TestBase:72 - Executed test case name:CloseRecuritment Execution Results : [TestResult name=CloseRecuritment status=SUCCESS method=DesignationTest.CloseRecuritment()[pri:2, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 11:49:02 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:49:02 INFO  TestBase:65 - Browser Closed
+2019-07-12 12:00:48 INFO  TestBase:29 - Initiate Browser
+2019-07-12 12:00:56 INFO  TestBase:35 - Browser Initiated
+2019-07-12 12:00:56 INFO  TestBase:46 - Test name: EditCloseRecuritment
+2019-07-12 12:00:56 INFO  DesignationTest:79 - Dashboard menu click 
+2019-07-12 12:00:56 INFO  DesignationTest:81 - Dashboard sub menu click
+2019-07-12 12:00:56 INFO  DesignationTest:83 - Edit RecuritType click 
+2019-07-12 12:00:56 INFO  TestBase:72 - Executed test case name:EditCloseRecuritment Execution Results : [TestResult name=EditCloseRecuritment status=SUCCESS method=DesignationTest.EditCloseRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 12:00:56 INFO  TestBase:63 - Closing Browser
+2019-07-12 12:00:56 INFO  TestBase:65 - Browser Closed
+2019-07-12 12:10:36 INFO  TestBase:29 - Initiate Browser
+2019-07-12 12:10:42 INFO  TestBase:35 - Browser Initiated
+2019-07-12 12:10:42 INFO  TestBase:46 - Test name: EditCloseRecuritment
+2019-07-12 12:10:43 INFO  DesignationTest:79 - Dashboard menu click 
+2019-07-12 12:10:43 INFO  DesignationTest:81 - Dashboard sub menu click
+2019-07-12 12:10:43 INFO  DesignationTest:83 - Edit RecuritType click 
+2019-07-12 12:10:48 INFO  TestBase:72 - Executed test case name:EditCloseRecuritment Execution Results : [TestResult name=EditCloseRecuritment status=FAILURE method=DesignationTest.EditCloseRecuritment()[pri:4, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 12:10:48 INFO  TestBase:63 - Closing Browser
+2019-07-12 12:10:48 INFO  TestBase:65 - Browser Closed
+2019-07-12 12:12:18 INFO  TestBase:29 - Initiate Browser
+2019-07-12 12:12:26 INFO  TestBase:35 - Browser Initiated
+2019-07-12 12:12:26 INFO  TestBase:46 - Test name: EditCloseRecuritment
+2019-07-12 12:12:26 INFO  DesignationTest:79 - Dashboard menu click 
+2019-07-12 12:12:26 INFO  DesignationTest:81 - Dashboard sub menu click
+2019-07-12 12:12:26 INFO  DesignationTest:83 - Edit RecuritType click 
+2019-07-12 12:12:27 INFO  TestBase:72 - Executed test case name:EditCloseRecuritment Execution Results : [TestResult name=EditCloseRecuritment status=SUCCESS method=DesignationTest.EditCloseRecuritment()[pri:4, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 12:12:27 INFO  TestBase:63 - Closing Browser
+2019-07-12 12:12:27 INFO  TestBase:65 - Browser Closed
+2019-07-12 12:33:57 INFO  TestBase:29 - Initiate Browser
+2019-07-12 12:34:04 INFO  TestBase:35 - Browser Initiated
+2019-07-12 12:34:04 INFO  TestBase:46 - Test name: DeleteRecuritment
+2019-07-12 12:34:04 INFO  DesignationTest:97 - Dashboard menu click 
+2019-07-12 12:34:04 INFO  DesignationTest:99 - Dashboard sub menu click
+2019-07-12 12:34:04 INFO  DesignationTest:101 - Edit RecuritType click 
+2019-07-12 12:34:04 INFO  TestBase:72 - Executed test case name:DeleteRecuritment Execution Results : [TestResult name=DeleteRecuritment status=SUCCESS method=DesignationTest.DeleteRecuritment()[pri:5, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 12:34:04 INFO  TestBase:63 - Closing Browser
+2019-07-12 12:34:04 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:08:45 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:08:52 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:08:52 INFO  TestBase:46 - Test name: DeleteRecuritment
+2019-07-12 13:08:52 INFO  DesignationTest:97 - Dashboard menu click 
+2019-07-12 13:08:53 INFO  DesignationTest:99 - Dashboard sub menu click
+2019-07-12 13:08:58 INFO  TestBase:72 - Executed test case name:DeleteRecuritment Execution Results : [TestResult name=DeleteRecuritment status=FAILURE method=DesignationTest.DeleteRecuritment()[pri:5, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 13:08:58 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:08:58 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:09:24 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:09:31 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:09:31 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 13:09:31 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-12 13:09:32 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-12 13:09:32 INFO  DesignationTest:24 - Add RecuritType click 
+2019-07-12 13:09:32 INFO  DesignationTest:26 - Click the inputBox
+2019-07-12 13:09:33 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:09:33 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:09:33 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:09:33 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:09:40 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:09:40 INFO  TestBase:46 - Test name: CloseRecuritment
+2019-07-12 13:09:40 INFO  DesignationTest:40 - Dashboard menu click 
+2019-07-12 13:09:40 INFO  DesignationTest:42 - Dashboard sub menu click
+2019-07-12 13:09:40 INFO  DesignationTest:44 - Add RecuritType click 
+2019-07-12 13:09:40 INFO  TestBase:72 - Executed test case name:CloseRecuritment Execution Results : [TestResult name=CloseRecuritment status=SUCCESS method=DesignationTest.CloseRecuritment()[pri:2, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:09:40 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:09:40 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:09:40 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:09:47 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:09:47 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 13:09:47 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 13:09:48 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 13:09:48 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 13:09:48 INFO  DesignationTest:64 - Click the inputBox
+2019-07-12 13:09:48 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=SUCCESS method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:09:48 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:09:48 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:09:48 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:09:56 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:09:56 INFO  TestBase:46 - Test name: EditCloseRecuritment
+2019-07-12 13:09:56 INFO  DesignationTest:79 - Dashboard menu click 
+2019-07-12 13:09:56 INFO  DesignationTest:81 - Dashboard sub menu click
+2019-07-12 13:09:56 INFO  DesignationTest:83 - Edit RecuritType click 
+2019-07-12 13:09:56 INFO  TestBase:72 - Executed test case name:EditCloseRecuritment Execution Results : [TestResult name=EditCloseRecuritment status=SUCCESS method=DesignationTest.EditCloseRecuritment()[pri:4, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:09:56 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:09:56 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:09:56 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:10:05 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:10:05 INFO  TestBase:46 - Test name: DeleteRecuritment
+2019-07-12 13:10:05 INFO  DesignationTest:97 - Dashboard menu click 
+2019-07-12 13:10:05 INFO  DesignationTest:99 - Dashboard sub menu click
+2019-07-12 13:10:05 INFO  DesignationTest:101 - Edit RecuritType click 
+2019-07-12 13:10:11 INFO  TestBase:72 - Executed test case name:DeleteRecuritment Execution Results : [TestResult name=DeleteRecuritment status=FAILURE method=DesignationTest.DeleteRecuritment()[pri:5, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:10:11 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:10:11 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:11:19 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:11:28 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:11:28 INFO  TestBase:46 - Test name: DeleteRecuritment
+2019-07-12 13:11:28 INFO  DesignationTest:97 - Dashboard menu click 
+2019-07-12 13:11:28 INFO  DesignationTest:99 - Dashboard sub menu click
+2019-07-12 13:11:28 INFO  DesignationTest:101 - Edit RecuritType click 
+2019-07-12 13:11:29 INFO  TestBase:72 - Executed test case name:DeleteRecuritment Execution Results : [TestResult name=DeleteRecuritment status=SUCCESS method=DesignationTest.DeleteRecuritment()[pri:5, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 13:11:29 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:11:29 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:12:01 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:12:09 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:12:09 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 13:12:10 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-12 13:12:10 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-12 13:12:10 INFO  DesignationTest:24 - Add RecuritType click 
+2019-07-12 13:12:10 INFO  DesignationTest:26 - Click the inputBox
+2019-07-12 13:12:12 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:12:12 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:12:12 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:12:12 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:12:19 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:12:19 INFO  TestBase:46 - Test name: CloseRecuritment
+2019-07-12 13:12:19 INFO  DesignationTest:40 - Dashboard menu click 
+2019-07-12 13:12:20 INFO  DesignationTest:42 - Dashboard sub menu click
+2019-07-12 13:12:20 INFO  DesignationTest:44 - Add RecuritType click 
+2019-07-12 13:12:20 INFO  TestBase:72 - Executed test case name:CloseRecuritment Execution Results : [TestResult name=CloseRecuritment status=SUCCESS method=DesignationTest.CloseRecuritment()[pri:2, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:12:20 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:12:20 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:12:20 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:12:37 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:12:37 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 13:12:37 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 13:12:37 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 13:12:37 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 13:12:37 INFO  DesignationTest:64 - Click the inputBox
+2019-07-12 13:12:38 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=SUCCESS method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:12:38 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:12:38 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:12:38 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:12:44 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:12:44 INFO  TestBase:46 - Test name: EditCloseRecuritment
+2019-07-12 13:12:44 INFO  DesignationTest:79 - Dashboard menu click 
+2019-07-12 13:12:44 INFO  DesignationTest:81 - Dashboard sub menu click
+2019-07-12 13:12:45 INFO  DesignationTest:83 - Edit RecuritType click 
+2019-07-12 13:12:45 INFO  TestBase:72 - Executed test case name:EditCloseRecuritment Execution Results : [TestResult name=EditCloseRecuritment status=SUCCESS method=DesignationTest.EditCloseRecuritment()[pri:4, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:12:45 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:12:45 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:12:45 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:12:52 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:12:52 INFO  TestBase:46 - Test name: DeleteRecuritment
+2019-07-12 13:12:52 INFO  DesignationTest:97 - Dashboard menu click 
+2019-07-12 13:12:52 INFO  DesignationTest:99 - Dashboard sub menu click
+2019-07-12 13:12:52 INFO  DesignationTest:101 - Edit RecuritType click 
+2019-07-12 13:12:53 INFO  TestBase:72 - Executed test case name:DeleteRecuritment Execution Results : [TestResult name=DeleteRecuritment status=SUCCESS method=DesignationTest.DeleteRecuritment()[pri:5, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:12:53 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:12:53 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:21:43 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:21:50 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:21:50 INFO  TestBase:46 - Test name: DeleteCancelRecuritment
+2019-07-12 13:21:50 INFO  DesignationTest:114 - Dashboard menu click 
+2019-07-12 13:21:51 INFO  DesignationTest:116 - Dashboard sub menu click
+2019-07-12 13:21:51 INFO  DesignationTest:118 - Edit RecuritType click 
+2019-07-12 13:21:56 INFO  TestBase:72 - Executed test case name:DeleteCancelRecuritment Execution Results : [TestResult name=DeleteCancelRecuritment status=FAILURE method=DesignationTest.DeleteCancelRecuritment()[pri:5, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 13:21:56 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:21:56 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:23:14 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:23:21 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:23:21 INFO  TestBase:46 - Test name: DeleteCancelRecuritment
+2019-07-12 13:23:21 INFO  DesignationTest:114 - Dashboard menu click 
+2019-07-12 13:23:21 INFO  DesignationTest:116 - Dashboard sub menu click
+2019-07-12 13:23:21 INFO  DesignationTest:118 - Edit RecuritType click 
+2019-07-12 13:23:27 INFO  TestBase:72 - Executed test case name:DeleteCancelRecuritment Execution Results : [TestResult name=DeleteCancelRecuritment status=FAILURE method=DesignationTest.DeleteCancelRecuritment()[pri:5, instance:com.abi.automation.Tests.DesignationTest@6ebc05a6] output={null}]
+2019-07-12 13:23:27 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:23:27 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:25:03 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:25:43 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:25:50 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:25:50 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-12 13:25:50 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-12 13:25:50 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-12 13:25:50 INFO  DesignationTest:24 - Add RecuritType click 
+2019-07-12 13:25:50 INFO  DesignationTest:26 - Click the inputBox
+2019-07-12 13:25:51 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:25:51 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:25:52 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:25:52 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:25:58 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:25:58 INFO  TestBase:46 - Test name: CloseRecuritment
+2019-07-12 13:25:58 INFO  DesignationTest:40 - Dashboard menu click 
+2019-07-12 13:25:59 INFO  DesignationTest:42 - Dashboard sub menu click
+2019-07-12 13:25:59 INFO  DesignationTest:44 - Add RecuritType click 
+2019-07-12 13:25:59 INFO  TestBase:72 - Executed test case name:CloseRecuritment Execution Results : [TestResult name=CloseRecuritment status=SUCCESS method=DesignationTest.CloseRecuritment()[pri:2, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:25:59 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:26:00 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:26:00 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:26:06 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:26:06 INFO  TestBase:46 - Test name: EditRecuritment
+2019-07-12 13:26:06 INFO  DesignationTest:58 - Dashboard menu click 
+2019-07-12 13:26:06 INFO  DesignationTest:60 - Dashboard sub menu click
+2019-07-12 13:26:06 INFO  DesignationTest:62 - Edit RecuritType click 
+2019-07-12 13:26:06 INFO  DesignationTest:64 - Click the inputBox
+2019-07-12 13:26:07 INFO  TestBase:72 - Executed test case name:EditRecuritment Execution Results : [TestResult name=EditRecuritment status=SUCCESS method=DesignationTest.EditRecuritment()[pri:3, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:26:07 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:26:07 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:26:07 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:26:13 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:26:13 INFO  TestBase:46 - Test name: EditCloseRecuritment
+2019-07-12 13:26:14 INFO  DesignationTest:79 - Dashboard menu click 
+2019-07-12 13:26:14 INFO  DesignationTest:81 - Dashboard sub menu click
+2019-07-12 13:26:14 INFO  DesignationTest:83 - Edit RecuritType click 
+2019-07-12 13:26:14 INFO  TestBase:72 - Executed test case name:EditCloseRecuritment Execution Results : [TestResult name=EditCloseRecuritment status=SUCCESS method=DesignationTest.EditCloseRecuritment()[pri:4, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:26:14 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:26:15 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:26:15 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:26:23 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:26:23 INFO  TestBase:46 - Test name: DeleteCancelRecuritment
+2019-07-12 13:26:23 INFO  DesignationTest:114 - Dashboard menu click 
+2019-07-12 13:26:24 INFO  DesignationTest:116 - Dashboard sub menu click
+2019-07-12 13:26:24 INFO  DesignationTest:118 - Edit RecuritType click 
+2019-07-12 13:26:24 INFO  TestBase:72 - Executed test case name:DeleteCancelRecuritment Execution Results : [TestResult name=DeleteCancelRecuritment status=SUCCESS method=DesignationTest.DeleteCancelRecuritment()[pri:5, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:26:24 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:26:25 INFO  TestBase:65 - Browser Closed
+2019-07-12 13:26:25 INFO  TestBase:29 - Initiate Browser
+2019-07-12 13:26:32 INFO  TestBase:35 - Browser Initiated
+2019-07-12 13:26:32 INFO  TestBase:46 - Test name: DeleteRecuritment
+2019-07-12 13:26:33 INFO  DesignationTest:97 - Dashboard menu click 
+2019-07-12 13:26:33 INFO  DesignationTest:99 - Dashboard sub menu click
+2019-07-12 13:26:33 INFO  DesignationTest:101 - Edit RecuritType click 
+2019-07-12 13:26:33 INFO  TestBase:72 - Executed test case name:DeleteRecuritment Execution Results : [TestResult name=DeleteRecuritment status=SUCCESS method=DesignationTest.DeleteRecuritment()[pri:6, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
+2019-07-12 13:26:33 INFO  TestBase:63 - Closing Browser
+2019-07-12 13:26:34 INFO  TestBase:65 - Browser Closed

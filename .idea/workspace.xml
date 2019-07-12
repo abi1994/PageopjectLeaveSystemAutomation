@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="942f3aea-49b9-4b47-baff-de1166b82b84" name="Default" comment="" />
+    <list default="true" id="942f3aea-49b9-4b47-baff-de1166b82b84" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbiAutomation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DashboardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DesignationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DesignationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/DesignationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/DesignationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/RecuitmentTypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/RcuitmentTypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/reports/ExtentReportResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/reports/ExtentReportResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-19-11_04-19-29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-19-11_04-19-47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-20-11_04-20-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-20-11_04-20-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-20-11_04-20-30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-21-11_04-21-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-21-11_04-21-30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-22-11_04-22-53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-23-11_04-23-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/2019-23-11_04-23-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abi/Automation/Pages/DashboardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/abi/Automation/Pages/DashboardPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abi/Automation/Pages/DesignationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/abi/Automation/Pages/DesignationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/abi/automation/Tests/DesignationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/abi/automation/Tests/DesignationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/abi/automation/Tests/RecuitmentTypeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/reports/ExtentReportResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/reports/ExtentReportResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/2019-19-11_04-19-29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/2019-19-11_04-19-47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/2019-20-11_04-20-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/2019-20-11_04-20-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/2019-20-11_04-20-30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/2019-21-11_04-21-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/screenshots/2019-21-11_04-21-30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui-automation-training-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/ui-automation-training-log.log" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,24 +44,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RecuitmentTypePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/RecuitmentTypePage.java">
+      <file leaf-file-name="DesignationPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DesignationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="60" column="119" selection-start-line="60" selection-start-column="119" selection-end-line="60" selection-end-column="119" />
+            <state relative-caret-position="-446">
+              <caret line="22" column="97" selection-start-line="22" selection-start-column="97" selection-end-line="22" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DesignationTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/DesignationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="90" column="22" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
               <folding>
-                <element signature="e#1528#1529#0" expanded="true" />
-                <element signature="e#1600#1601#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecuitmentTypeTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/RecuitmentTypeTest.java">
+      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Utils/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="107" column="54" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
+            <state relative-caret-position="197">
+              <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DashboardPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="30" column="76" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,6 +98,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>L</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -54,13 +116,16 @@
         <option value="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/DashboardTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/LeaveTypeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/LeaveTypePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/DesignationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DashboardPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DesignationPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/abi/automation/Utils/TestBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abi/Automation/Utils/PageBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/RecuitmentTypePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/RecuitmentTypeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/ManageEmployes/RcuitmentTypeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DesignationTypePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/ManageEmployes/DesignationTypeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DashboardPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DesignationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/DesignationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/abi/automation/Utils/TestBase.java" />
       </list>
     </option>
   </component>
@@ -77,12 +142,14 @@
     <option name="width" value="733" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -130,15 +197,6 @@
               <item name="AbiAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="AbiAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AbiAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AbiAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -165,12 +223,38 @@
               <item name="automation" type="462c0819:PsiDirectoryNode" />
               <item name="Tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AbiAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AbiAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AbiAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AbiAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AbiAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AbiAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/LeavemanagmentAutomation" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -196,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.RecuitmentTypeTest">
+  <component name="RunManager" selected="TestNG.DesignationTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -216,7 +300,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="RecuitmentTypeTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DesignationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AbiAutomation" />
       <extension name="coverage">
         <pattern>
@@ -228,7 +312,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.abi.automation.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.RecuitmentTypeTest" />
+      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.DesignationTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -245,7 +329,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RecuitmentTypeTest.AddRecuritment" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DesignationTest.CloseRecuritment" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AbiAutomation" />
       <extension name="coverage">
         <pattern>
@@ -257,8 +341,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.abi.automation.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.RecuitmentTypeTest" />
-      <option name="METHOD_NAME" value="AddRecuritment" />
+      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.DesignationTest" />
+      <option name="METHOD_NAME" value="CloseRecuritment" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -274,7 +358,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RecuitmentTypeTest.DeleteRecuricancel" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DesignationTest.DeleteCancelRecuritment" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AbiAutomation" />
       <extension name="coverage">
         <pattern>
@@ -286,8 +370,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.abi.automation.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.RecuitmentTypeTest" />
-      <option name="METHOD_NAME" value="DeleteRecuricancel" />
+      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.DesignationTest" />
+      <option name="METHOD_NAME" value="DeleteCancelRecuritment" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -303,7 +387,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RecuitmentTypeTest.DeleteRecuriment" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DesignationTest.DeleteRecuritment" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AbiAutomation" />
       <extension name="coverage">
         <pattern>
@@ -315,8 +399,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.abi.automation.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.RecuitmentTypeTest" />
-      <option name="METHOD_NAME" value="DeleteRecuriment" />
+      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.DesignationTest" />
+      <option name="METHOD_NAME" value="DeleteRecuritment" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -332,7 +416,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RecuitmentTypeTest.EditRecuriment" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DesignationTest.EditCloseRecuritment" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AbiAutomation" />
       <extension name="coverage">
         <pattern>
@@ -344,8 +428,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.abi.automation.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.RecuitmentTypeTest" />
-      <option name="METHOD_NAME" value="EditRecuriment" />
+      <option name="MAIN_CLASS_NAME" value="com.abi.automation.Tests.DesignationTest" />
+      <option name="METHOD_NAME" value="EditCloseRecuritment" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -384,19 +468,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.RecuitmentTypeTest" />
-      <item itemvalue="TestNG.RecuitmentTypeTest.AddRecuritment" />
-      <item itemvalue="TestNG.RecuitmentTypeTest.EditRecuriment" />
-      <item itemvalue="TestNG.RecuitmentTypeTest.DeleteRecuriment" />
-      <item itemvalue="TestNG.RecuitmentTypeTest.DeleteRecuricancel" />
+      <item itemvalue="TestNG.DesignationTest.CloseRecuritment" />
+      <item itemvalue="TestNG.DesignationTest.EditCloseRecuritment" />
+      <item itemvalue="TestNG.DesignationTest.DeleteRecuritment" />
+      <item itemvalue="TestNG.DesignationTest" />
+      <item itemvalue="TestNG.DesignationTest.DeleteCancelRecuritment" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.RecuitmentTypeTest" />
-        <item itemvalue="TestNG.RecuitmentTypeTest.DeleteRecuricancel" />
-        <item itemvalue="TestNG.RecuitmentTypeTest.DeleteRecuriment" />
-        <item itemvalue="TestNG.RecuitmentTypeTest.EditRecuriment" />
-        <item itemvalue="TestNG.RecuitmentTypeTest.AddRecuritment" />
+        <item itemvalue="TestNG.DesignationTest" />
+        <item itemvalue="TestNG.DesignationTest.DeleteCancelRecuritment" />
+        <item itemvalue="TestNG.DesignationTest.DeleteRecuritment" />
+        <item itemvalue="TestNG.DesignationTest.EditCloseRecuritment" />
+        <item itemvalue="TestNG.DesignationTest.CloseRecuritment" />
       </list>
     </recent_temporary>
   </component>
@@ -414,55 +498,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RecuitmentTypeTest - 2019.07.11 at 15h 53m 28s.xml">
-      <configuration name="RecuitmentTypeTest" configurationId="TestNG" />
+    <history-entry file="DesignationTest_EditCloseRecuritment - 2019.07.12 at 12h 12m 27s.xml">
+      <configuration name="DesignationTest.EditCloseRecuritment" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RecuitmentTypeTest_DeleteRecuriment - 2019.07.11 at 15h 54m 09s.xml">
-      <configuration name="RecuitmentTypeTest.DeleteRecuriment" configurationId="TestNG" />
+    <history-entry file="DesignationTest_DeleteRecuritment - 2019.07.12 at 12h 34m 05s.xml">
+      <configuration name="DesignationTest.DeleteRecuritment" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RecuitmentTypeTest_DeleteRecuricancel - 2019.07.11 at 16h 07m 18s.xml">
-      <configuration name="RecuitmentTypeTest.DeleteRecuricancel" configurationId="TestNG" />
+    <history-entry file="DesignationTest_DeleteRecuritment - 2019.07.12 at 13h 08m 59s.xml">
+      <configuration name="DesignationTest.DeleteRecuritment" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RecuitmentTypeTest_DeleteRecuricancel - 2019.07.11 at 16h 08m 02s.xml">
-      <configuration name="RecuitmentTypeTest.DeleteRecuricancel" configurationId="TestNG" />
+    <history-entry file="DesignationTest - 2019.07.12 at 13h 10m 12s.xml">
+      <configuration name="DesignationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RecuitmentTypeTest - 2019.07.11 at 16h 12m 24s.xml">
-      <configuration name="RecuitmentTypeTest" configurationId="TestNG" />
+    <history-entry file="DesignationTest_DeleteRecuritment - 2019.07.12 at 13h 11m 30s.xml">
+      <configuration name="DesignationTest.DeleteRecuritment" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RecuitmentTypeTest - 2019.07.11 at 16h 13m 49s.xml">
-      <configuration name="RecuitmentTypeTest" configurationId="TestNG" />
+    <history-entry file="DesignationTest - 2019.07.12 at 13h 12m 53s.xml">
+      <configuration name="DesignationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RecuitmentTypeTest - 2019.07.11 at 16h 14m 50s.xml">
-      <configuration name="RecuitmentTypeTest" configurationId="TestNG" />
+    <history-entry file="DesignationTest_DeleteCancelRecuritment - 2019.07.12 at 13h 21m 57s.xml">
+      <configuration name="DesignationTest.DeleteCancelRecuritment" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RecuitmentTypeTest_DeleteRecuricancel - 2019.07.11 at 16h 15m 47s.xml">
-      <configuration name="RecuitmentTypeTest.DeleteRecuricancel" configurationId="TestNG" />
+    <history-entry file="DesignationTest_DeleteCancelRecuritment - 2019.07.12 at 13h 23m 28s.xml">
+      <configuration name="DesignationTest.DeleteCancelRecuritment" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RecuitmentTypeTest - 2019.07.11 at 16h 17m 12s.xml">
-      <configuration name="RecuitmentTypeTest" configurationId="TestNG" />
+    <history-entry file="DesignationTest - 2019.07.12 at 13h 25m 06s.xml">
+      <configuration name="DesignationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RecuitmentTypeTest - 2019.07.11 at 16h 20m 32s.xml">
-      <configuration name="RecuitmentTypeTest" configurationId="TestNG" />
+    <history-entry file="DesignationTest - 2019.07.12 at 13h 26m 35s.xml">
+      <configuration name="DesignationTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3290938" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50073206" side_tool="true" weight="0.40222576" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49926794" visible="true" weight="0.24960254" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49926794" weight="0.34022257" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17057101" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18960468" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3290938" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -474,8 +558,35 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49926794" weight="0.34022257" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18960468" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3290938" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3990461" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50073206" side_tool="true" weight="0.40222576" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3290938" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -486,89 +597,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DashboardPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" lean-forward="true" selection-start-line="38" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/LeaveTypePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="78" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Utils/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/RecuitmentTypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/LeaveTypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/ReactLeaveManagementSys/LeaveSystemReact-UI/src/_actions/leaveType-action.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Utils/PageBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DashboardPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="69" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/LeaveTypePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Utils/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/LeaveTypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/ReactLeaveManagementSys/LeaveSystemReact-UI/src/_actions/leaveType-action.js" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Utils/PageBase.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -630,10 +658,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-05-10_03-05-14.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-13-09_01-13-29.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-13-09_01-13-54.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-14-09_01-14-33.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-27-08_05-27-41.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-38-08_03-38-46.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-45-09_01-45-29.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-47-08_02-47-33.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-48-08_02-48-59.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-48-09_11-48-49.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-49-09_01-49-44.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/LeaveTypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="79" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-01-11_03-01-28.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-04-10_03-04-51.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-12-11_03-12-22.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-12-11_03-12-06.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Utils/PageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-16-11_04-16-34.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-16-11_04-16-40.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-16-11_04-16-59.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-17-11_04-17-11.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/reports/ExtentReportResults.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/RecuitmentTypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DesignationTypePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/ManageEmployes/DesignationTypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-12-12_10-12-29.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-26-12_10-26-04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-27-12_10-27-20.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-28-12_10-28-54.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DashboardPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+        <state relative-caret-position="154">
+          <caret line="30" column="76" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-25-12_11-25-11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/RecuitmentTypePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="60" column="119" selection-start-line="60" selection-start-column="119" selection-end-line="60" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-26-12_11-26-26.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-26-12_11-26-56.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-36-12_11-36-40.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/RcuitmentTypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -642,74 +781,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/DesignationPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-05-10_03-05-14.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-13-09_01-13-29.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-13-09_01-13-54.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-14-09_01-14-33.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-27-08_05-27-41.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-38-08_03-38-46.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-45-09_01-45-29.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-47-08_02-47-33.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-48-08_02-48-59.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-48-09_11-48-49.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-49-09_01-49-44.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/DesignationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/LeaveTypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" column="79" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-01-11_03-01-28.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-04-10_03-04-51.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Utils/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="-446">
+          <caret line="22" column="97" selection-start-line="22" selection-start-column="97" selection-end-line="22" selection-end-column="97" />
         </state>
       </provider>
     </entry>
@@ -723,49 +796,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-12-11_03-12-22.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-12-11_03-12-06.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Utils/PageBase.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/DesignationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abi/Automation/Pages/RecuitmentTypePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="60" column="119" selection-start-line="60" selection-start-column="119" selection-end-line="60" selection-end-column="119" />
+        <state relative-caret-position="124">
+          <caret line="90" column="22" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
           <folding>
-            <element signature="e#1528#1529#0" expanded="true" />
-            <element signature="e#1600#1601#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-16-11_04-16-34.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-16-11_04-16-40.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-16-11_04-16-59.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/screenshots/2019-17-11_04-17-11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/reports/ExtentReportResults.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/abi/automation/Tests/RecuitmentTypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="107" column="54" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
         </state>
       </provider>
     </entry>

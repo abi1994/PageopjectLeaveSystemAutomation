@@ -1,7 +1,5 @@
 package com.abi.automation.Tests;
 
-
-
 import com.abi.Automation.Pages.DashboardPage;
 import com.abi.Automation.Pages.RecuitmentTypePage;
 import com.abi.automation.Utils.TestBase;
@@ -9,11 +7,9 @@ import com.relevantcodes.extentreports.LogStatus;
 import org.apache.log4j.Logger;
 import org.testng.annotations.Test;
 
-import static com.abi.automation.Utils.TestBase.extentReport;
+public class RcuitmentTypeTest extends TestBase {
 
-public class RecuitmentTypeTest extends TestBase {
-
-    private static final Logger LOGGER = Logger.getLogger(RecuitmentTypeTest.class);
+    private static final Logger LOGGER = Logger.getLogger(RcuitmentTypeTest.class);
 
     @Test(priority = 1)
     public void AddRecuritment(){
@@ -29,9 +25,7 @@ public class RecuitmentTypeTest extends TestBase {
         RecuitmentTypePage.InputrecuritType();
         RecuitmentTypePage.ClickSaverecurit();
         RecuitmentTypePage.ClickOkAddrecurit();
-
-       // RecuitmentTypePage.ClickCloserecurit();
-        extentTest.log(LogStatus.PASS, " library management system : ");
+        extentTest.log(LogStatus.PASS, "library management system : ");
         extentReport.endTest(extentTest);
         softAssert.assertAll();
     }
@@ -48,7 +42,7 @@ public class RecuitmentTypeTest extends TestBase {
         RecuitmentTypePage.ClickAddRecurit();
         LOGGER.info("Add RecuritType click ");
         RecuitmentTypePage.InputrecuritType();
-         RecuitmentTypePage.ClickCloserecurit();
+        RecuitmentTypePage.ClickCloserecurit();
         extentTest.log(LogStatus.PASS, " library management system : ");
         extentReport.endTest(extentTest);
         softAssert.assertAll();
@@ -110,5 +104,4 @@ public class RecuitmentTypeTest extends TestBase {
         softAssert.assertAll();
 
     }
-
 }

@@ -5,7 +5,6 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.testng.asserts.SoftAssert;
 
-import static com.abi.Automation.Utils.PageBase.getDriver;
 
 public class DashboardPage extends PageBase {
     public SoftAssert softAssert;
@@ -29,7 +28,7 @@ public class DashboardPage extends PageBase {
 
     private static By recitmentmenu =By.xpath("//*[@id=\"page2\"]/ul/li[1]/a");
 
-    private static By Designationmenu =By.xpath("//*[@id=\"page2\"]/ul/li[2]/a");
+    private static By Designationmenu =By.xpath("//*[@id=\"page2\"]/ul/li[2]");//*[@id="page2"]/ul/li[2]/a
 
     public static void ClickLeaveTypeAndPoliciesMenu(){
        implicitWait(5); getDriver().findElement(leavetypeandpoliciesmenu).click();
