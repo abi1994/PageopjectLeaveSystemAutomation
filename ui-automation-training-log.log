@@ -2545,3 +2545,120 @@
 2019-07-12 13:26:33 INFO  TestBase:72 - Executed test case name:DeleteRecuritment Execution Results : [TestResult name=DeleteRecuritment status=SUCCESS method=DesignationTest.DeleteRecuritment()[pri:6, instance:com.abi.automation.Tests.DesignationTest@578486a3] output={null}]
 2019-07-12 13:26:33 INFO  TestBase:63 - Closing Browser
 2019-07-12 13:26:34 INFO  TestBase:65 - Browser Closed
+2019-07-15 10:55:32 INFO  TestBase:29 - Initiate Browser
+2019-07-15 10:55:42 INFO  TestBase:35 - Browser Initiated
+2019-07-15 10:55:42 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-15 10:55:42 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-15 10:55:42 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-15 10:55:42 INFO  DesignationTest:24 - Add RecuritType click 
+2019-07-15 10:55:42 INFO  DesignationTest:26 - Click the inputBox
+2019-07-15 10:55:43 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@1dfe2924] output={null}]
+2019-07-15 10:55:43 INFO  TestBase:63 - Closing Browser
+2019-07-15 10:55:44 INFO  TestBase:65 - Browser Closed
+2019-07-15 10:55:44 INFO  TestBase:29 - Initiate Browser
+2019-07-15 10:55:53 INFO  TestBase:35 - Browser Initiated
+2019-07-15 10:55:53 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-15 10:55:53 INFO  LeaveTypeTest:22 - DashBoardPage is menu CLick
+2019-07-15 10:55:54 INFO  LeaveTypeTest:24 - DashBoardPage is Submenu Leavetype CLick
+2019-07-15 10:55:54 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=FAILURE method=LeaveTypeTest.AddLeaveType()[pri:1, instance:com.abi.automation.Tests.LeaveTypeTest@6ebc05a6] output={null}]
+2019-07-15 10:55:55 INFO  TestBase:63 - Closing Browser
+2019-07-15 10:55:55 INFO  TestBase:65 - Browser Closed
+2019-07-15 10:55:55 INFO  TestBase:29 - Initiate Browser
+2019-07-15 10:56:04 INFO  TestBase:35 - Browser Initiated
+2019-07-15 10:56:04 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-15 10:56:04 INFO  RcuitmentTypeTest:20 - Dashboard menu click 
+2019-07-15 10:56:04 INFO  RcuitmentTypeTest:22 - Dashboard sub menu click
+2019-07-15 10:56:05 INFO  RcuitmentTypeTest:24 - Add RecuritType click 
+2019-07-15 10:56:05 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=SUCCESS method=RcuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RcuitmentTypeTest@6e6c3152] output={null}]
+2019-07-15 10:56:05 INFO  TestBase:63 - Closing Browser
+2019-07-15 10:56:06 INFO  TestBase:65 - Browser Closed
+2019-07-15 10:57:25 INFO  TestBase:29 - Initiate Browser
+2019-07-15 10:57:33 INFO  TestBase:35 - Browser Initiated
+2019-07-15 10:57:33 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-15 10:57:33 INFO  DesignationTest:20 - Dashboard menu click 
+2019-07-15 10:57:33 INFO  DesignationTest:22 - Dashboard sub menu click
+2019-07-15 10:57:33 INFO  DesignationTest:24 - Add RecuritType click 
+2019-07-15 10:57:33 INFO  DesignationTest:26 - Click the inputBox
+2019-07-15 10:57:39 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=DesignationTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.DesignationTest@1dfe2924] output={null}]
+2019-07-15 10:57:39 INFO  TestBase:63 - Closing Browser
+2019-07-15 10:57:40 INFO  TestBase:65 - Browser Closed
+2019-07-15 10:57:40 INFO  TestBase:29 - Initiate Browser
+2019-07-15 10:57:47 INFO  TestBase:35 - Browser Initiated
+2019-07-15 10:57:47 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-15 10:57:47 INFO  LeaveTypeTest:22 - DashBoardPage is menu CLick
+2019-07-15 10:57:47 INFO  LeaveTypeTest:24 - DashBoardPage is Submenu Leavetype CLick
+2019-07-15 10:57:48 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=FAILURE method=LeaveTypeTest.AddLeaveType()[pri:1, instance:com.abi.automation.Tests.LeaveTypeTest@6ebc05a6] output={null}]
+2019-07-15 10:57:48 INFO  TestBase:63 - Closing Browser
+2019-07-15 10:57:49 INFO  TestBase:65 - Browser Closed
+2019-07-15 10:57:49 INFO  TestBase:29 - Initiate Browser
+2019-07-15 10:57:56 INFO  TestBase:35 - Browser Initiated
+2019-07-15 10:57:56 INFO  TestBase:46 - Test name: AddRecuritment
+2019-07-15 10:57:56 INFO  RcuitmentTypeTest:20 - Dashboard menu click 
+2019-07-15 10:57:56 INFO  RcuitmentTypeTest:22 - Dashboard sub menu click
+2019-07-15 10:57:56 INFO  RcuitmentTypeTest:24 - Add RecuritType click 
+2019-07-15 10:58:02 INFO  TestBase:72 - Executed test case name:AddRecuritment Execution Results : [TestResult name=AddRecuritment status=FAILURE method=RcuitmentTypeTest.AddRecuritment()[pri:1, instance:com.abi.automation.Tests.RcuitmentTypeTest@6e6c3152] output={null}]
+2019-07-15 10:58:02 INFO  TestBase:63 - Closing Browser
+2019-07-15 10:58:03 INFO  TestBase:65 - Browser Closed
+2019-07-17 15:09:44 INFO  AddLeaveType:19 - row = 3 columns = 2
+2019-07-17 15:12:53 INFO  AddLeaveType:19 - row = 3 columns = 2
+2019-07-17 15:18:55 INFO  AddLeaveType:19 - row = 3 columns = 2
+2019-07-18 11:55:51 INFO  AddLeaveType:19 - row = 3 columns = 2
+2019-07-18 12:19:25 INFO  AddLeaveType:19 - row = 3 columns = 2
+2019-07-18 12:20:43 INFO  AddLeaveType:19 - row = 3 columns = 2
+2019-07-18 12:20:55 INFO  AddLeaveType:19 - row = 3 columns = 2
+2019-07-18 12:25:52 INFO  AddLeaveType:19 - row = 3 columns = 2
+2019-07-18 12:28:15 INFO  AddLeaveType:19 - row = 3 columns = 1
+2019-07-18 12:28:15 INFO  TestBase:29 - Initiate Browser
+2019-07-18 12:28:26 INFO  TestBase:35 - Browser Initiated
+2019-07-18 12:28:26 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-18 12:28:27 INFO  LeaveTypeTest:23 - DashBoardPage is menu CLick
+2019-07-18 12:28:27 INFO  LeaveTypeTest:25 - DashBoardPage is Submenu Leavetype Click
+2019-07-18 12:28:32 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=FAILURE method=LeaveTypeTest.AddLeaveType(java.lang.String)[pri:0, instance:com.abi.automation.Tests.LeaveTypeTest@551aa95a] output={null}]
+2019-07-18 12:28:33 INFO  TestBase:63 - Closing Browser
+2019-07-18 12:28:34 INFO  TestBase:65 - Browser Closed
+2019-07-18 12:28:34 INFO  TestBase:29 - Initiate Browser
+2019-07-18 12:28:41 INFO  TestBase:35 - Browser Initiated
+2019-07-18 12:28:41 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-18 12:28:41 INFO  LeaveTypeTest:23 - DashBoardPage is menu CLick
+2019-07-18 12:28:41 INFO  LeaveTypeTest:25 - DashBoardPage is Submenu Leavetype Click
+2019-07-18 12:28:47 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=FAILURE method=LeaveTypeTest.AddLeaveType(java.lang.String)[pri:0, instance:com.abi.automation.Tests.LeaveTypeTest@551aa95a] output={null}]
+2019-07-18 12:28:47 INFO  TestBase:63 - Closing Browser
+2019-07-18 12:28:48 INFO  TestBase:65 - Browser Closed
+2019-07-18 12:28:48 INFO  TestBase:29 - Initiate Browser
+2019-07-18 12:28:56 INFO  TestBase:35 - Browser Initiated
+2019-07-18 12:28:56 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-18 12:28:56 INFO  LeaveTypeTest:23 - DashBoardPage is menu CLick
+2019-07-18 12:28:56 INFO  LeaveTypeTest:25 - DashBoardPage is Submenu Leavetype Click
+2019-07-18 12:29:01 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=FAILURE method=LeaveTypeTest.AddLeaveType(java.lang.String)[pri:0, instance:com.abi.automation.Tests.LeaveTypeTest@551aa95a] output={null}]
+2019-07-18 12:29:02 INFO  TestBase:63 - Closing Browser
+2019-07-18 12:29:03 INFO  TestBase:65 - Browser Closed
+2019-07-18 12:38:30 INFO  AddLeaveType:19 - row = 3 columns = 1
+2019-07-18 12:38:30 INFO  TestBase:29 - Initiate Browser
+2019-07-18 12:38:38 INFO  TestBase:35 - Browser Initiated
+2019-07-18 12:38:38 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-18 12:38:38 INFO  LeaveTypeTest:23 - DashBoardPage is menu CLick
+2019-07-18 12:38:38 INFO  LeaveTypeTest:25 - DashBoardPage is Submenu Leavetype Click
+2019-07-18 12:38:39 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=SUCCESS method=LeaveTypeTest.AddLeaveType(java.lang.String)[pri:0, instance:com.abi.automation.Tests.LeaveTypeTest@551aa95a] output={null}]
+2019-07-18 12:38:39 INFO  TestBase:63 - Closing Browser
+2019-07-18 12:38:40 INFO  TestBase:65 - Browser Closed
+2019-07-18 12:38:40 INFO  TestBase:29 - Initiate Browser
+2019-07-18 12:38:48 INFO  TestBase:35 - Browser Initiated
+2019-07-18 12:38:48 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-18 12:38:48 INFO  LeaveTypeTest:23 - DashBoardPage is menu CLick
+2019-07-18 12:38:49 INFO  LeaveTypeTest:25 - DashBoardPage is Submenu Leavetype Click
+2019-07-18 12:38:50 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=SUCCESS method=LeaveTypeTest.AddLeaveType(java.lang.String)[pri:0, instance:com.abi.automation.Tests.LeaveTypeTest@551aa95a] output={null}]
+2019-07-18 12:38:50 INFO  TestBase:63 - Closing Browser
+2019-07-18 12:38:51 INFO  TestBase:65 - Browser Closed
+2019-07-18 12:38:51 INFO  TestBase:29 - Initiate Browser
+2019-07-18 12:38:59 INFO  TestBase:35 - Browser Initiated
+2019-07-18 12:38:59 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-18 12:38:59 INFO  LeaveTypeTest:23 - DashBoardPage is menu CLick
+2019-07-18 12:39:00 INFO  LeaveTypeTest:25 - DashBoardPage is Submenu Leavetype Click
+2019-07-18 12:39:00 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=SUCCESS method=LeaveTypeTest.AddLeaveType(java.lang.String)[pri:0, instance:com.abi.automation.Tests.LeaveTypeTest@551aa95a] output={null}]
+2019-07-18 12:39:00 INFO  TestBase:63 - Closing Browser
+2019-07-18 12:39:01 INFO  TestBase:65 - Browser Closed
+2019-07-30 15:54:11 INFO  AddLeaveType:19 - row = 3 columns = 1
+2019-07-30 15:54:12 INFO  TestBase:29 - Initiate Browser
+2019-07-30 15:54:21 INFO  TestBase:35 - Browser Initiated
+2019-07-30 15:54:21 INFO  TestBase:46 - Test name: AddLeaveType
+2019-07-30 15:54:23 INFO  TestBase:72 - Executed test case name:AddLeaveType Execution Results : [TestResult name=AddLeaveType status=FAILURE method=LeaveTypeTest.AddLeaveType(java.lang.String)[pri:0, instance:com.abi.automation.Tests.LeaveTypeTest@551aa95a] output={null}]
